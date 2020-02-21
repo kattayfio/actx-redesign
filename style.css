@@ -1,0 +1,1459 @@
+body {
+    background-color:white;
+    height: auto;
+    width:100%;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    height: auto;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+#firstnav {
+    background-color: #fc00c7;
+    padding: 1%;
+}
+
+nav.firstnav ul li a{
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    color: white;
+    font-size: 1.2em;
+    margin: .5px;
+    padding-left: 3.5%;
+    font-weight: 500;
+    letter-spacing: 2px;
+    float: left;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+}
+
+nav.firstnav ul li a:hover {
+color: aqua;
+}
+
+img.float_left {
+    float: left;
+    padding-top: 10px;
+    padding-left: 14px;
+}
+
+#searchbar {
+    padding-left: 80.5%;
+    padding-top: 0;
+    position: 0 0 0 0;
+}
+
+#socials {
+    margin-top: 4.1%;
+    padding-left: 14%;
+    float: left;
+}
+
+#namelogo {
+    margin-top: 6.2%;
+    padding-left: 30%;
+}
+
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc; }
+
+hr {
+    width: 1050px;
+    border-width: 1.9px;
+    border-color: #fc00c7;
+    margin-top: 20px;
+    display: block;
+}
+
+
+#secondnav {
+    margin-top: 2%;
+    padding-left: 7.5%;
+}
+
+nav.secondnav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 1.5em;
+    letter-spacing: 2.5px;
+    margin: 19px;
+}
+
+
+nav.secondnav ul li a:hover {
+color: aqua;
+}
+
+#homepreview {
+    margin-top: 4%;
+    padding-left: 7.5%;
+   overflow: hidden;
+   
+}
+
+#homesection {
+   width: 350px;
+    margin-top: -2%;
+    height: 650px;
+    float: left;
+}
+
+
+h1 {
+    letter-spacing: 3px;
+    font-size: 3em;
+    line-height: 65px;
+    width: 350px;
+    
+}
+
+#homecategories {
+   
+}
+
+#homebox1 {
+   margin-top: -5%;
+}
+
+#homeauthor {
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 9.5%;
+    width: 350px;
+    font-size: .9em;
+}
+
+
+hr.secondline {
+    width: 300px;
+    margin-top: 2.5%;
+    margin-left: -.2%;
+}
+
+
+#homecontent {
+    width: 290px;
+    letter-spacing: .9px;
+    margin-top: 5%;
+    word-spacing: 3px;
+    line-height: 27.5px;
+    font-size: .9em;
+    
+}
+
+#homereadmore {
+    margin-top: 5%;
+     transition: transform .3s;
+}
+
+#vangogh {
+    margin-left: -6%;
+    padding: 0 0 0 0;
+    overflow: hidden;
+    width: 61%;
+    height: auto;
+    margin-top: 2.5%
+}
+
+#select {
+    margin-top: 2.3%;
+    padding-left: 285px;
+    overflow: hidden;
+}
+
+#onlineexclusivediv {
+    margin-top: 100px;
+   
+    height: 900px;
+}
+
+#onlineexclusivetitle {
+    font-weight:700;
+    font-size: 2em;
+    letter-spacing: 2.8px;
+    word-spacing: 5px;
+    width: 700px;
+}
+
+hr.thirdline {
+    width: 1050px;
+    border-width: 1.9px;
+    border-color: #fc00c7;
+    margin-top: 5px;
+    display: block;
+    margin-left: 0px;
+}
+
+#leftcontentsection {
+    width: 700px;
+    float: left;
+    
+    margin-top: -1%;
+}
+
+span.firstword {
+    font-weight:600;
+}
+
+#plantpic {
+    margin-top: 35px;
+    width: 700px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.fuseboxtext {
+  position: absolute;
+    margin-bottom: 3%;
+    height: 140px;
+    margin-left: 1%;
+  bottom: 8px;
+  left: 16px;
+    background-color:  #fc00c7;
+    width: 390px;
+    font-size: 1.7em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 4%;
+    padding-top: 2.5%;
+}
+
+
+#plantpicauthor {
+     letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 2%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#plantbuttons {
+    margin-top: 1%;
+    
+    width: 700px;
+}
+
+#plantcontent {
+    width:700px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 1%;
+    
+}
+
+#homereadmore2 {
+    margin-top: 2%;
+      transition: transform .3s;
+   
+}
+
+#featuredread1 {
+    font-size: 6em;
+   letter-spacing: 5px;
+    font-weight: 600;
+    line-height: 99px;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    float: left;
+    margin-top: 2%;
+    margin-left: 7%;
+ 
+}
+
+#exclusivesecondhalf {
+  
+    margin-top: 4%;
+    height: 550px;
+    
+}
+
+#seemore1 {
+    
+    width: 300px;
+    margin-left: 2%;
+    padding-left: 3%;
+    margin-top: 6.5%;
+    float: left;
+    
+}
+
+#bluepicsection {
+
+    width: 360px;
+    height: 550px;
+    margin-left: -2%;
+    margin-top:
+    padding-left: 2.5%;
+    overflow: hidden;
+    float: left;
+}
+
+
+#bluepic {
+    margin-top: 35px;
+    width: 400px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.bluepictext {
+  position: absolute;
+    margin-bottom: 4%;
+    height: 140px;
+    margin-left: 1%;
+    line-height: 32px;
+    bottom: 8px;
+    left: 16px;
+    background-color:  #fc00c7;
+    width: 245px;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+
+
+#bluepicauthor {
+     letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 1.5%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#bluepiccontent {
+    width:370px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 3%;
+    
+}
+
+#bluebuttons {
+    margin-top: 2%;
+}
+
+#homereadmore3 {
+    margin-top: 4%;
+      transition: transform .3s;
+   
+}
+
+
+
+#scatterpicsection {
+
+    width: 380px;
+    margin-top:-3%;
+    margin-left: -4.5%;
+    height: 550px;
+     padding-top: -3%;
+    overflow: hidden;
+}
+
+
+#scatterpic {
+    margin-top: 35px;
+    width: 400px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.scatterpictext {
+  position: absolute;
+    margin-bottom: 4%;
+    height: 140px;
+    margin-left: 1%;
+    line-height: 32px;
+    bottom: 8px;
+    left: 16px;
+    background-color:  #fc00c7;
+    width: 270px;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+
+
+#scatterpicauthor {
+     letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 1.5%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#scatterpiccontent {
+    width:370px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 3%;
+    
+}
+
+#scatterbuttons {
+    margin-top: 2%;
+}
+
+#homereadmore4 {
+    margin-top: 4%;
+      transition: transform .3s;
+   
+}
+
+//**show up section**//
+
+
+
+
+#onlineexclusivediv {
+    margin-top: 100px;
+     
+    height: 900px;
+}
+
+#showuptitle {
+    font-weight:700;
+    font-size: 2em;
+    letter-spacing: 2.8px;
+    word-spacing: 5px;
+    width: 700px;
+}
+
+hr.thirdline {
+    width: 1050px;
+    border-width: 1.9px;
+    border-color: #fc00c7;
+    margin-top: 5px;
+    display: block;
+    margin-left: 0px;
+}
+
+#rightcontentsection {
+    width: 700px;
+    float: left;
+    margin-left: 10.5%;
+    margin-top: -1%;
+}
+
+span.firstword {
+    font-weight:600;
+}
+
+#fuchspic {
+    margin-top: 35px;
+    width: 700px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.fuchstext {
+  position: absolute;
+    margin-bottom: 3%;
+    height: 100px;
+    margin-left: 1%;
+  bottom: 8px;
+  left: 16px;
+    background-color:  #fc00c7;
+    width: 335px;
+    font-size: 1.7em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 4%;
+    padding-top: 2.5%;
+}
+
+
+#fuchsauthor {
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 2%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#fuchsbuttons {
+    margin-top: 1%;
+    
+    width: 700px;
+}
+
+#plantcontent {
+    width:700px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 1%;
+    
+}
+
+#homereadmore2 {
+    margin-top: 2%;
+    transition: transform .3s;
+   
+}
+
+#francescafuchs {
+    font-size: 6em;
+   letter-spacing: 5px;
+    font-weight: 600;
+    line-height: 99px;
+    writing-mode: vertical-rl;
+    transform: rotate(360deg);
+    float: left;
+    margin-top: 2%;
+    margin-left: 3.5%;
+ 
+}
+
+#exclusivesecondhalf {
+
+    padding-left: 2%;
+    margin-top: 4%;
+    height: 650px;
+    
+}
+
+#seemore2 {
+   
+    width: 300px;
+    float: right;
+    margin-right: 14.5%;
+    margin-top: -46.5%;
+    
+    
+}
+
+#lillianpicsection {
+
+    width: 360px;
+    height: 550px;
+    margin-left: -2%;
+    margin-top:
+    padding-left: 2.5%;
+    overflow: hidden;
+    float: left;
+   
+}
+
+
+#lillianpic {
+    margin-top: 35px;
+    width: 400px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.lillianpictext {
+  position: absolute;
+    margin-bottom: 4%;
+    height: 75px;
+    margin-left: 1%;
+    line-height: 32px;
+    bottom: 8px;
+    left: 16px;
+    background-color:  #fc00c7;
+    width: 212px;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+
+
+#lillianpicauthor {
+     letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 1.5%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#lillianpiccontent {
+    width:350px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 3%;
+    
+}
+
+#lillianbuttons {
+    margin-top: 2%;
+}
+
+#homereadmore3 {
+    margin-top: 4%;
+    transition: transform .3s;
+   
+}
+
+
+
+#michaelpicsection {
+     
+    width: 380px;
+    margin-top:-3%;
+    margin-left: -4.5%;
+    height: 550px;
+     padding-top: -3%;
+    overflow: hidden;
+}
+
+
+#michaelpic {
+    margin-top: 35px;
+    width: 400px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.michaelpictext {
+  position: absolute;
+    margin-bottom: 4%;
+    height: 75px;
+    margin-left: 1%;
+    line-height: 32px;
+    bottom: 8px;
+    left: 16px;
+    background-color:  #fc00c7;
+    width: 222px;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+
+
+#michaelpicauthor {
+     letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 1.5%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#michaelpiccontent {
+    width:370px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 3%;
+    
+}
+
+#michaelbuttons {
+    margin-top: 2%;
+}
+
+#homereadmore4 {
+    margin-top: 4%;
+      transition: transform .3s;
+   
+}
+
+
+
+
+
+
+
+
+
+
+//**ithappened**//
+
+
+#onlineexclusivediv {
+    margin-top: 100px;
+    
+}
+
+#showuptitle {
+    font-weight:700;
+    font-size: 2em;
+    letter-spacing: 2.8px;
+    word-spacing: 5px;
+    width: 700px;
+}
+
+hr.thirdline {
+    width: 1050px;
+    border-width: 1.9px;
+    border-color: #fc00c7;
+    margin-top: 5px;
+    display: block;
+    margin-left: 0px;
+}
+
+#leftcontentsection {
+    width: 700px;
+    float: left;
+    
+    margin-top: -1%;
+}
+
+span.firstword {
+    font-weight:600;
+}
+
+#plantpic {
+    margin-top: 35px;
+    width: 700px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.symphonytext {
+  position: absolute;
+    margin-bottom: 3%;
+    height: 145px;
+    margin-left: 1%;
+  bottom: 8px;
+  left: 16px;
+    background-color:  #fc00c7;
+    width: 475px;
+    font-size: 1.7em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 4%;
+    padding-top: 2.5%;
+}
+
+
+#symphonyauthor {
+     letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 2%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#symphonybuttons {
+    margin-top: 1%;
+    width: 700px;
+}
+
+#symphonycontent {
+    width:700px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 1%;
+    
+}
+
+#homereadmore2 {
+    margin-top: 2%;
+      transition: transform .3s;
+   
+}
+
+#houstonsymphony {
+    font-size: 6em;
+   letter-spacing: 5px;
+    font-weight: 600;
+    line-height: 99px;
+    writing-mode: vertical-rl;
+    transform: rotate(360deg);
+    float: left;
+    margin-top: 2%;
+    margin-left: 7%;
+ 
+}
+
+#exclusivesecondhalf3 {
+   
+    margin-top: 4%;
+    height: 725px;
+    
+}
+
+#seemore1 {
+    
+    width: 300px;
+    margin-left: 2%;
+    padding-left: 3%;
+    margin-top: 6.5%;
+    float: left;
+    
+}
+
+#graypicsection {
+
+    width: 360px;
+    height: 550px;
+    margin-left: -2%;
+    margin-top:
+    padding-left: 2.5%;
+    overflow: hidden;
+    float: left;
+}
+
+
+#graypic {
+    margin-top: 35px;
+    width: 400px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.graypictext {
+  position: absolute;
+    margin-bottom: 4%;
+    height: 140px;
+    margin-left: 1%;
+    line-height: 32px;
+    bottom: 8px;
+    left: 16px;
+    background-color:  #fc00c7;
+    width: 290px;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+
+
+#graypicauthor {
+     letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 1.5%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#graypiccontent {
+    width:350px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 3%;
+    
+}
+
+#graybuttons {
+    margin-top: 2%;
+}
+
+#homereadmore3 {
+    margin-top: 4%;
+      transition: transform .3s;
+   
+}
+
+
+
+#nixonpicsection {
+
+    width: 380px;
+    margin-top:-3%;
+    margin-left: -4.5%;
+    height: 550px;
+     padding-top: -3%;
+    overflow: hidden;
+}
+
+
+#nixonpic {
+    margin-top: 35px;
+    width: 400px;
+    position: relative;
+    text-align:left;
+    color: white;
+   
+}
+
+
+.nixonpictext {
+  position: absolute;
+    margin-bottom: 4%;
+    height: 140px;
+    margin-left: 1%;
+    line-height: 32px;
+    bottom: 8px;
+    left: 16px;
+    background-color:  #fc00c7;
+    width: 225px;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+
+
+#nixonpicauthor {
+     letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 1.5%;
+    width: 350px;
+    font-size: .9em;
+     
+}
+
+#nixonpiccontent {
+    width:360px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 27.5px;
+    margin-top: 3%;
+    
+}
+
+#nixonbuttons {
+    margin-top: 2%;
+}
+
+#homereadmore4 {
+    margin-top: 4%;
+      transition: transform .3s;
+   
+}
+
+
+
+//**footer*//
+
+
+
+
+#footer {
+    background-color: black;
+    padding-left: 0%;
+    color: white;
+    height: 185px;
+    
+}
+
+
+#footerbox {
+    background-color: black;
+    padding: 1%;
+    height: 190px;
+    padding-top: 4%;
+    padding-left: 6.8%;
+}
+
+span {
+    font-size: 1.5em;
+}
+
+nav.firstnav ul li a{
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    color: white;
+    font-size: 1.1em;
+    margin: 0;
+    margin-left: 3.2%;
+    padding-left: 0%;
+    font-weight: 500;
+    letter-spacing: 3px;
+    float: left;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+}
+
+nav.firstnav ul li a:hover {
+color: aqua;
+}
+
+#footerlogo {
+    
+    margin-top: 3.5%;
+    margin-left: 530px;
+    width: 50px;
+}
+
+#copyrightinfo {
+    background-color: #fc00c7;
+    color: white;
+    padding: 1.2%;
+    padding-left: 410px;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+}
+
+#articletitleandcasey {
+   
+    height: 190px;
+    padding-left: 8%;
+    margin-top: 130px;
+    
+}
+
+#articletitle {
+    font-weight:700;
+    font-size: 2.5em;
+    letter-spacing: 2.8px;
+    word-spacing: 5px;
+    width: 700px;
+    margin-left: 180px;
+    margin-bottom: .25%;
+  
+    
+}
+
+#caseygregorysmall {
+    
+    width: 171px;
+    margin-top: -3.9%;
+    margin-left: 1%;
+    float: left;
+}
+
+#articleauthorinfo {
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 1%;
+    width: 600px;
+    font-size: 1em;
+}
+
+#fuchsbuttons2 {
+    margin-top: .8%;
+    float: left;
+    width: 172px;
+}
+
+#minutecount {
+       width:500px;
+    letter-spacing: 1.5px;
+    font-size: .8em;
+    font-weight: 400;
+    line-height: 27.5px;
+    margin-top: 2.5%;
+}
+
+#elephantbig {
+     margin-top: 2px;
+    display: block;
+    margin-left: 98px;
+}
+
+#elephantcaption {
+      width:800px;
+    letter-spacing: 1.3px;
+    font-size: .7em;
+    font-weight: 400;
+    line-height: 27.5px;
+    margin-top: .7%;
+    margin-left: 98px;
+}
+
+
+
+#entirearticlebox {
+    margin-top: -1.5%;
+
+    height: 2600px;
+}
+
+#firstparagraph {
+     width:650px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: -8.5%;
+}
+
+#articleleftcontent {
+   
+    margin-left: 98px;
+    margin-top: 25px;
+    width: 725px;
+   
+    float: left;
+    
+}
+
+span.articledrop {
+    font-weight:700;
+    font-size: 6.5em;
+}
+
+#vl {
+    border-left: 5px solid #bfbebf;
+    height: 130px;
+    margin-top: 6.5%;
+    float: left;
+}
+
+#articlerightcontent {
+    
+    width: 300px;
+    height: 2500px;
+    overflow: hidden;
+    padding-left: 40px;
+    margin-top: 116px;
+}
+
+#quote1 {
+    
+    padding-left: .5%;
+    margin-top: 2%;
+}
+
+#quoteone {
+   color: #fc00c7;
+    font-family: 'Century Gothic';
+    font-size: 1.7em;
+    font-weight: lighter;
+    line-height: 50px;
+    letter-spacing: 2.5px;
+    height: 150px;
+    width: 490px;
+    padding-top: 4.5%;
+
+    margin-left: 40px;
+}
+
+
+#secondparagraph {
+     width:660px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: 8%;
+}
+
+u {
+    margin-top: -1%;
+    text-decoration-line: none;
+    text-decoration-skip: ink;
+    border-bottom: 1.5px solid #fc00c7;
+}
+
+#thirdparagraph {
+     width:660px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: 8%;
+}
+
+#fourthparagraph {
+     width:660px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: 8%;
+}
+
+#quote2 {
+    
+    padding-left: .5%;
+    margin-top: 2%;
+}
+
+#quotetwo {
+   color: #fc00c7;
+    font-family: 'Century Gothic';
+    font-size: 1.7em;
+    font-weight: lighter;
+    line-height: 50px;
+    letter-spacing: 2.5px;
+    height: 150px;
+    width: 550px;
+    padding-top: 4.5%;
+
+    margin-left: 40px;
+}
+
+#fifthparagraph {
+     width:680px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: 8%;
+}
+
+#sixthparagraph {
+     width:680px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: 8%;
+}
+
+#seventhparagraph {
+     width:680px;
+    letter-spacing: 1.5px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 30px;
+    margin-top: 8%;
+}
+
+h3 {
+    color: #fc00c7;
+      letter-spacing: 1.8px;
+    font-size: 1.1em;
+    font-weight: 500;
+    line-height: 30px;
+    margin-top: 10%;
+}
+
+#woodmancaption {
+  
+    text-align: right;
+    padding-right: 6%;
+    letter-spacing: 1.3px;
+    font-size: .7em;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 8%;
+
+}
+
+#paperweightpic {
+    margin-top: 278px;
+}
+
+#paperweightcaption {
+  
+    text-align: right;
+    padding-right: 6%;
+    letter-spacing: 1.3px;
+    font-size: .7em;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 8%;
+
+}
+
+
+#bunnypic {
+    margin-top: 399px;
+}
+
+#bunnycaption {
+  
+    text-align: right;
+    padding-right: 6%;
+    letter-spacing: 1.3px;
+    font-size: .7em;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 8%;
+
+}
+
+#authorandsharecontent {
+    
+    height: 450px;
+}
+
+#caseybox {
+  
+    background-color: #f7f5f7;
+    width: 600px;
+    height: 350px;
+    margin-top: 0%;
+    margin-left: 7.5%;
+    float: left;
+}
+
+#smallcasey2 {
+    padding-left: 11%;
+    padding-top: 14.5%;
+    float: left;
+}
+
+#caseyinfo {
+    
+    width: 230px;
+    overflow: hidden;
+     letter-spacing: 1.5px;
+    font-size: 1.3em;
+    font-weight: 300;
+    line-height: 40px;
+    padding-top: 76px;
+    padding-left: 70px;
+    text-align:center;
+    
+}
+
+#caseysocials {
+    margin-left: 307px;
+    width: 200px;
+    margin-top: 2.5%;
+    
+}
+
+#rightlinks {
+ 
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 9.5%;
+    padding-left: 12%;
+    margin-left: 3.1%;
+}
+
+
+#sharethisarticle {
+    width: 152px;
+  
+      letter-spacing: 1.3px;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 24px;
+    float: left;
+    margin-left: 126px;
+}
+
+#socialboxes {
+    margin-left: 250px;
+    margin-top: 31px;
+}
+
+#newsletterbox {
+     transition: transform .3s;
+    background-color: #fc00c7;
+    color: white;
+    font-weight:700;
+    font-size: 2.4em;
+    letter-spacing: 4px;
+    word-spacing: 6px;
+    width: 1025px;
+    text-align: center;
+    padding: 1.1%;
+    padding-top: 20px;
+    margin-left: 97px;
+    
+}
+
+#aroundtexasbox {
+
+    margin-top: 175px;
+}
+
+#aroundtexastext {
+
+    width: 400px;
+    margin-left: 10.5%;
+}
+
+#adspaces {
+    
+    padding-left: 21%;
+    margin-top: -3%;
+}
+
+#marfa {
+    margin-left: 10.4%;
+    margin-top: 4%;
+    height: 300px;
+}
+
+#homereadmore2:hover {
+  -ms-transform: scale(1); /* IE 9 */
+  -webkit-transform: scale(1); /* Safari 3-8 */
+  transform: scale(1.1); 
+ 
+    
+}
+
+#homereadmore:hover {
+  -ms-transform: scale(1); /* IE 9 */
+  -webkit-transform: scale(1); /* Safari 3-8 */
+  transform: scale(1.1);
+   
+}
+
+#homereadmore3:hover {
+  -ms-transform: scale(1); /* IE 9 */
+  -webkit-transform: scale(1); /* Safari 3-8 */
+  transform: scale(1.1); 
+      transform-origin: left;
+}
+
+#homereadmore4:hover {
+  -ms-transform: scale(1); /* IE 9 */
+  -webkit-transform: scale(1); /* Safari 3-8 */
+  transform: scale(1.1); 
+    transform-origin: left;
+}
+
+
+#newsletterbox:hover {
+  -ms-transform: scale(1); /* IE 9 */
+  -webkit-transform: scale(1); /* Safari 3-8 */
+  transform: scale(1.1); 
+    transform-origin: top;
+}
+
+
+
+
